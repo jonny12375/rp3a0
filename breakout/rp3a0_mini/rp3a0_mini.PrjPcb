@@ -185,100 +185,301 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=jlc-rp3a0-mini.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for rp3a0_mini\Design Rule Check - rp3a0-mini.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini-RoundHoles.TXT
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini-SlotHoles.TXT
+DocumentPath=Project Outputs for rp3a0_mini\outputs\NC Drill\rp3a0-mini-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.DRL
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.DRR
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.EXTREP
+DocumentPath=Project Outputs for rp3a0_mini\outputs\NC Drill\rp3a0-mini-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G1
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G2
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G3
+DocumentPath=Project Outputs for rp3a0_mini\outputs\NC Drill\rp3a0-mini.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G4
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBL
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBO
+DocumentPath=Project Outputs for rp3a0_mini\outputs\NC Drill\rp3a0-mini.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBP
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBS
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GD1
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GG1
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GM
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.G1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GM1
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTL
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.G2
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTO
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTP
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.G3
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTS
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G3
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.LDP
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.G4
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.G4
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GM
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GM
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\NC Drill\rp3a0-mini.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\2025-04-14\rp3a0-mini.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini.REP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
 DocumentPath=Project Outputs for rp3a0_mini\rp3a0-mini.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for rp3a0_mini\outputs\Gerber\rp3a0-mini_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
