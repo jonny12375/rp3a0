@@ -1,0 +1,40 @@
+Name,Designator,Quantity,Value,Footprint,Description,Comment,Link
+,,,,,,,
+Cap,"C1, C2, C5, C8, C18, C20, C21, C22, C23, C24, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C37, C39, C40, C41, C42, C44, C45, C46",28,220n,CAP-0402,Capacitor 0402,,
+Cap,"C3, C4, C11, C13, C16, C17",6,10u,CAP-0603,Capacitor 0603,,
+Cap,"C6, C9",2,18p,CAP-0402,Capacitor 0402,,
+Cap,"C7, C10",2,1u,CAP-0402,Capacitor 0402,,
+Cap,"C12, C14",2,47u,C0805 NP,Capacitor 0805,,https://www.lcsc.com/product-detail/C16780.html
+Cap,"C15, C19, C47",3,100n,CAP-0402,Capacitor 0402,,
+Cap,C25,1,100p,CAP-0402,Capacitor 0402,"Not super sure on this value, 100pF works",
+Cap,"C36, C38, C43",3,4.7u,CAP-0603,Capacitor 0603,,https://www.lcsc.com/product-detail/C1705.html
+SMD_LED,D1,1,,LED_0603,0603 LED,,
+DFLS130LQ-7,D2,1,,DIO_DFLS130LQ-7,Diode Schottky 1A 30V PowerDI 123 | Diodes Inc DFLS130LQ-7,,
+EXC-24CG900U,"FL1, FL2, FL3, FL4",4,,FIL_EXC24CB102U,Common mode Filters(for Gbps),"Couldn’t find the original part I spec’d, switched to PANASONIC EXC24CH900U",https://www.lcsc.com/product-detail/C236275.html
+MOLEX-0475710001,J1,1,,MOLEX_0475710001,"9 _8 + 1_ Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold","Couldn’t find the original part, switched to Molex 473092651",https://www.lcsc.com/product-detail/C587826.html
+MOLEX-467652301,J2,1,,MOLEX_467652301,"0.40mm Pitch Micro HDMI Connector, Right-Angle Receptacle, Surface Mount",,https://www.lcsc.com/product-detail/C6961796.html
+105450-0101,J3,1,,MOLEX_105450-0101,"USB-C, USB 3.1 Gen 2, Receptacle Connector 24 Position Surface Mount, Right Angle; Through Hole",,https://www.digikey.com/en/products/detail/molex/1054500101/5843890
+INDUCTOR,L1,1,470nH,INDC2016X100N,SRP2010-R47M inductor,,https://www.digikey.com/en/products/detail/bourns-inc/srp2010-r47m/4876856
+INDUCTOR,L2,1,4.7uH,INDP4040X180N,BOURNS SRN4030HA-4R7Y,,https://www.lcsc.com/product-detail/C5926030.html
+INDUCTOR,L3,1,2.2uH,INDP2622X120N,BOURNS SRN2512-2R2M,,https://www.lcsc.com/product-detail/C2041574.html
+INDUCTOR,"L4, L5, L6",2,220R,CAP-0402,Ferrite bead SMD,,https://www.lcsc.com/product-detail/C85813.html
+DMG2305UX-7,Q1,1,,SOT91P240X110-3N_DMG2305UX-7,DIODES DMG2305UX-7 P-Channel 20V 4.2A _Ta_ 1.4W _Ta_ Surface Mount SOT-23,,https://www.lcsc.com/product-detail/C150470.html
+Res SMD,"R1, R2, R21, R22, R23, R24",6,1k8,RES-0402-SML,Resistor 0402,,
+Res SMD,"R3, R19, R20",3,100k,RES-0402-SML,Resistor 0402,,
+Res SMD,R4,1,470k,RES-0402-SML,Resistor 0402,,
+Res SMD,R5,1,82k,RES-0402-SML,Resistor 0402,,
+Res SMD,R6,1,10k,RES-0402-SML,Resistor 0402,,
+Res SMD,"R7, R15, R25",3,47k,RES-0402-SML,Resistor 0402,,
+Res SMD,R8,1,18k,RES-0402-SML,Resistor 0402,,
+Res SMD,"R9, R10",2,5.1k,RES-0402-SML,Resistor 0402,,
+Res SMD,R11,1,470R,RES-0402-SML,Resistor 0402,,
+Res SMD,"R12, R13, R18",3,240R,RES-0402-SML,Resistor 0402,,
+Res SMD,R14,1,33R,RES-0402-SML,Resistor 0402,,
+Res SMD,R16,1,3.9k,RES-0402-SML,Resistor 0402,,
+Res SMD,R17,1,1K,RES-0402-SML,Resistor 0402,,
+RP3A0,U1,1,,RP3A0-BGA,RP3A0-AU SoC,"Only available on Pi Zero 2W boards, needs reballing after desoldering",https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
+RT9081A-1BGQZA(2),U2,1,,VREG_RT9081A_1BGQZA(2),RT9081A-1BGQZA(2) Linear Voltage Regulator IC 1 Output 500mA 6-ZADFN (1.2x1.2),Make sure you buy the 1.25V fixed regulator,https://www.digikey.com/en/products/detail/richtek-usa-inc/rt9081a-1bgqza-2/6676758
+RT8088AWSC,U3,1,,15B_WLCSP_1.31x2.11,"RT8088AWSC Buck Switching Regulator IC Positive Programmable 0.6V 1 Output 3A 15-UFBGA, WLCSP",,https://www.digikey.com/en/products/detail/richtek-usa-inc/RT8088AWSC/5880503
+PAM2306AYPKE,U4,1,,SON45P300X300X80-13N,"PAM2306AYPKE Buck Switching Regulator IC Positive Fixed 1.8V, 3.3V 2 Output 1A 12-WFDFN Exposed Pad",,https://www.lcsc.com/product-detail/C508236.html
+DMG1024UV-7,U5,1,,SOT50P162X60-6N,Dual N-Ch Enhancement MOSFET SOT-563 | Diodes Inc DMG1024UV-7,Used DMN2004VK,https://www.lcsc.com/product-detail/C145115.html
+ECS-192-18-33-JGN-TR,Y1,1,,XTAL_ECS-192-18-33-JGN-TR,19.2MHz Crystal Oscillator,,https://www.digikey.com/en/products/detail/ecs-inc/ECS-192-18-33-JGN-TR/6821628
